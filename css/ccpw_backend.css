@@ -1,0 +1,24 @@
+/*Version: 1.5*/
+.ccpw_help_lists_cryptocurrencies {width:100%;margin-top:20px;font-size:16px;}
+.ccpw_save_setting {margin-left:0px;}
+.ccpw_list_currency_form {margin-top:30px;}
+.ccpw_img_none {display: inline-block; vertical-align: middle; margin-left: 6px;}
+.ccpw_coin_checkbox{margin-left: 10px;}
+.ccpw_custom-pagination{float: left; width: 100%; margin: 10px 0px 0px 0px;}
+body.wp-core-ui.wp-admin .button.ccpw_list_currencies_submit{float:left; margin-top:20px;}
+.ccpw_error_top_msg{ margin-left:0px;}
+.ccpw_currencies_list{display: inline-block; width:145px; margin-bottom: 10px;}
+body.wp-core-ui.wp-admin .button.ccpw_calculator_currencies_submit {display: ruby-text-container; margin-top: 20px; width: 11%;}
+.ccpw_cryptocurrency_not_select {color: #ff0000;}
+#adminmenu div.wp-menu-image {line-height: 30px;}
+#adminmenu #toplevel_page_cryptocurrency-pricing-list-and-ticker img {padding: 0; width: 20px;height: auto;display: inline-block;vertical-align: middle;}
+.ccpw_select_all{display: inline-block;width: 100%; margin-top: 15px; margin-bottom: 15px;}
+.inside p {display: inline-block;min-width: 118px;}
+.post-type-ccpw_ticker_post #normal-sortables, .post-type-ccpw_ticker_post #message a {	display: none;}
+.post-type-price_chart_post #normal-sortables, .post-type-price_chart_post #message a {	display: none;}
+.post-type-ccpw_newsticker_post #normal-sortables, .post-type-ccpw_newsticker_post #message a {	display: none;}
+#ccpw_tiker_meta_box_text ,#ccpw_tiker_meta_box_text_php, #ccpw_price_chart_meta_box_text, #ccpw_price_chart_meta_box_text_php{width: 100%;}
+.button.button-primary.ccpw_next-btn {float: right;}
+.button.button-primary.ccpw_prev-btn {float: left;}
+#ccpw_news_border_style .wp-picker-container, #ccpw_news_box_shadow .wp-picker-container {display: inline-block;}
+#ccpw_price_chart_meta_box_text{margin-bottom: 5px; }
